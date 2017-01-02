@@ -1,0 +1,47 @@
+body {
+  font-family: verdana, arial, sans-serif;
+  font-size: 14px;
+}
+.container {
+  width: 100%;
+}
+.main {
+  margin: 80px 15%;
+}
+.title {
+  font-weight: bold;
+  color: #a93636;
+  font-size: 200%;
+}
+.footer {
+  text-align: right;
+  font-style: italic;
+}
+a{
+  color: #a93636;
+  text-decoration: none;
+  border-bottom: 1px dotted #a93636;
+}
+a.red-button {
+  background-color: #a93636;
+  color: #ffffff;
+  font-weight: bold;
+  padding: 12px; 
+}
+.clear{
+  clear: both;
+}
+p {
+  text-indent: 1.5em;
+  margin: 25px 0; 
+}
+p.first{
+  text-indent: 0;
+}
+.mourn {
+  border: solid 1px #666;
+  margin: 40px 0;
+  padding: 15px 25px;
+  font-style: italic;
+}
+	
